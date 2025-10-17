@@ -1,0 +1,25 @@
+Key Insights from MySQL Exploratory Data Analysis
+
+1. High Startup Failure Rate:
+Most companies that went out of business during the analyzed period (2020–2023) appear to be startups, as indicated by a total layoff percentage of 1 (100%).
+
+2. Significant Funding Among Failed Companies:
+When ordered by total funds raised, several high-profile startups stood out — for instance, BritishVolt, an EV company, raised substantial capital before shutting down.
+
+3. High-Profile Collapse Example:
+Quibi, a well-known streaming startup, raised approximately $2 billion yet still went out of business — illustrating that high funding does not guarantee sustainability.
+
+4. Large-Scale Layoffs by Tech Giants:
+Established firms such as Amazon, Google, Meta, and Twitter were among the top contributors to total layoffs, collectively accounting for thousands of job losses.
+
+5. Industries Most Affected:
+The sectors hardest hit were Consumer, Retail, Transportation, and Finance, each recording some of the highest total layoffs.
+
+6. Geographical Distribution:
+The United States experienced the most layoffs overall, followed by India, Netherlands, Sweden, and Brazil.
+
+7. Year-over-Year Trend:
+The year 2023 recorded the highest number of layoffs, even though data only covered the first three months — surpassing totals from 2020–2022.
+
+8. Company Stage Analysis:
+The Post-IPO stage had the greatest number of layoffs, followed by companies in the Acquired, Series C, and Series D funding stages.
